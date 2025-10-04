@@ -2,7 +2,7 @@
 
 Research system based on the architecture defined by [Anthropic's](https://www.anthropic.com/engineering/multi-agent-research-system) internal research assistants.
 
-<video src="public/demo.mov" width="600" autoplay loop muted playsinline></video>
+![Demo](public/demo.gif)
 
 ## Architecture
 
@@ -15,11 +15,11 @@ SubAgent1   SubAgent2   SubAgent3  (Parallel Workers)
     ↓           ↓           ↓
     └───────────┼───────────┘
                 ↓
-        Synthesis
+            Synthesis
                 ↓
-        CitationAgent
+          CitationAgent
                 ↓
-        Final Report
+           Final Report
 ```
 
 ### Agents
