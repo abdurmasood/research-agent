@@ -1,6 +1,6 @@
 # Multi-Agent Research System
 
-Research system based on the architecture defined by [Anthropic's](https://www.anthropic.com/engineering/multi-agent-research-system) internal research assistants.
+Research system based on the architecture defined by [Anthropic's](https://www.anthropic.com/engineering/multi-agent-research-system) internal research team.
 
 <img src="public/demo.gif" width="100%" alt="Demo">
 
@@ -30,4 +30,4 @@ SubAgent1   SubAgent2   SubAgent3  (Parallel Workers)
 
 ## Installation & Usage
 
-Review the Wikis for more details
+Review the [Wiki's](https://github.com/abdurmasood/research-agent/wiki) for usage details.
