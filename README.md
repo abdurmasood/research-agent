@@ -2,7 +2,7 @@
 
 Research system based on the architecture defined by [Anthropic's](https://www.anthropic.com/engineering/multi-agent-research-system) internal research assistants.
 
-![Demo](public/demo.gif)
+<img src="public/demo.gif" width="100%" alt="Demo">
 
 ## Architecture
 
